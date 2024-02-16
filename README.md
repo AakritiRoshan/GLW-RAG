@@ -1,1 +1,2 @@
-# GLW-RAG
+# RAG-AI
+Creating my first RAG app
